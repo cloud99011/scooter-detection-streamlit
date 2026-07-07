@@ -1,0 +1,9 @@
+# Пути к папкам относительно корня проекта
+path: ./dataset # корневая папка датасета
+train: train/images
+val: val/images
+
+# Количество классов и их имена
+nc: 1
+names:
+  0: scooter
